@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="dialog_message">this is a dialog</string>
+</resources>
